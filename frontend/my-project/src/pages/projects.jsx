@@ -20,7 +20,7 @@ export default function Home() {
                 <section className={styles.containerProject}>
                     <h1>Projects</h1>
 
-                    <p>Está seção está sendo atualizada, em breve novos projetos no ar</p>
+                    <p>Seçao está em manutenção, em breve novos projetos atualizados</p>
                 </section>
 
                 <Menu />
