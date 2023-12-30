@@ -1,0 +1,44 @@
+.menu {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 30px;
+    position: fixed;
+    bottom: 50px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 350px;
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: var(--preto);
+    border-radius: 60px;
+    box-shadow: 5px 8px 15px #00000055;
+}
+
+.menuItem {
+    position: relative;
+    cursor: pointer;
+
+    &:hover::before {
+        content: attr(title);
+        position: absolute;
+        top: -50px;
+        /* Adjust the distance above the icon */
+        left: 49%;
+        transform: translateX(-50%);
+        color: var(--preto);
+        padding: 5px;
+        border-radius: 5px;
+        font-size: 14px;
+        white-space: nowrap;
+        opacity: 0.9;
+    }
+}
+
+.btnHome,
+.btnUser,
+.btnCode {
+    color: var(--branco);
+}

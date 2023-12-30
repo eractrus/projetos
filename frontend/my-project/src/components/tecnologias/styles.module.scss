@@ -1,0 +1,82 @@
+.containerTecnologias {
+    width: 100%;
+    padding: 14px;
+    display: flex;
+    flex-direction: column;
+
+    span {
+        font-size: 16px;
+        font-weight: bold;
+        margin-bottom: 14px;
+    }
+
+    ul {
+        width: 100%;
+        display: flex;
+        gap: 14px;
+        flex-wrap: wrap;
+
+        li {
+            width: 50px;
+            height: 50px;
+            list-style-type: none;
+            font-size: 50px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border-radius: 50%;
+
+            &.node {
+                color: #8CC84B;
+            }
+
+            &.express {
+                color: #000000;
+            }
+
+            &.typescript {
+                color: #3178C6;
+            }
+
+            &.sql {
+                color: #336791;
+            }
+
+            &.postgresql {
+                color: #316192;
+            }
+
+            &.prisma {
+                color: #2D3748;
+            }
+
+            &.jest {
+                color: #99425B;
+            }
+
+            &.git {
+                color: #F34F29;
+            }
+
+            &.react {
+                color: #61DAFB;
+            }
+
+            &.sass {
+                color: #CC6699;
+            }
+
+            &.tailwind {
+                color: #38B2AC;
+            }
+
+            &.html {
+                color: #E44D26;
+            }
+
+            &.css {
+                color: #264DE4;
+            }
+        }
+    }
+}

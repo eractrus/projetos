@@ -1,0 +1,45 @@
+.container{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.menuFilter{
+    position: fixed;
+    left: 40px;
+    width: 50px;
+    height: 150px;
+    border-radius: 40px;
+    background-color: var(--preto);
+    top: 50%;
+    transform: translatey(-50%);
+}
+.containerProject{
+    width: 1080px;
+    height: 500px;
+    background-color: #f1f1f1;
+    margin-top: -60px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.115);
+
+    h1{
+        text-align: center;
+        margin: 20px 0;
+        font-weight: 200;
+        font-size: 1.8rem;
+    }
+    p{
+        text-align: center;
+    }
+}
+
+@media (max-width:667px){
+    .containerProject{
+        width: 90%;
+    } 
+
+    .menuFilter{
+        display: none;
+    }
+}
