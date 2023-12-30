@@ -20,7 +20,7 @@ export default function Home() {
                 <section className={styles.containerProject}>
                     <h1>Projects</h1>
 
-                    <p>Sem projetos no momento, Estou criando novo porjetos para mostrar novos conhecimentos adiquiridos</p>
+                    <p>Está seçãp está sendo atualizada, em breve novos projetos no ar</p>
                 </section>
 
                 <Menu />
