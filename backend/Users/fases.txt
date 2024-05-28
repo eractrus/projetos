@@ -1,0 +1,8 @@
+Sistema de usuários onde o usuário poderá criar uma conta e alterar sua senha.
+O projeto está sendo desenvolvido em Node.js, Typescript, Express, Prisma, Postgres.
+
+1- O projeto foi criado e feito as instalações dos pacotes necessários.
+2- Banco de dados criado
+3- Codigo criado está com as funcionalidades: Cria conta, deletar conta, alterar senha de conta.
+4- Criar crptografia com JWT das senhas cadastradas no banco de dados
+5- Criar sistema de login e autenticação
