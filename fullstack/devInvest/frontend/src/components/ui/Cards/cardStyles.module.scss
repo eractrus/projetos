@@ -1,0 +1,66 @@
+.cardActive {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 360px;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 6px #63606042;
+    transition: all .4s ease-in;
+    
+    h2 {
+        font-size: 2rem;
+        color: rgb(98, 43, 226);
+    }
+
+    .containerPriceCardActive {
+        padding: 10px 0;
+        text-align: center;
+
+        .priceTitle{
+            font-size: 22px;
+            margin: 10px 0;
+            font-weight: 700;
+        }
+
+        div {
+            display: flex;
+            justify-content: space-between;
+        }
+    }
+
+    .containerInfosActive {
+        display: flex;
+        justify-content: space-between;
+        margin: 10px 0;
+    }
+
+    button {
+        margin-top: 12px;
+        padding: 8px 16px;
+        border: 1px solid rgb(98, 43, 226);
+        color: rgb(98, 43, 226);
+        border-radius: 8px;
+        outline: 0;
+        background-color: #fff;
+        font-weight: 400;
+        font-size: 22px;
+
+        &:hover {
+            background-color: rgb(98, 43, 226);
+            border: 1px solid #fff;
+            color: #fff;
+        }
+    }
+
+    &:hover {
+        background-color: rgb(98, 43, 226);
+        color: #fff;
+        transform: translateY(-10px);
+        transition: all .4s ease-out;
+
+        h2{
+            color: #fff;
+        }
+    }
+}

@@ -1,0 +1,16 @@
+.containerGeneral {
+    width: 100%;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.containerCardActive {
+    width: 80%;
+    padding: 40px 10px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    justify-content: center;
+}

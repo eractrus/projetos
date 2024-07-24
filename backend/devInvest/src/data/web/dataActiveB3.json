@@ -1,0 +1,642 @@
+[
+  {
+    "ativo": "CRFB3",
+    "data": "22/07",
+    "ultimo": "10,70",
+    "valorMinimo": "10,35",
+    "valorMaximo": "10,70",
+    "volume": "76,96 M"
+  },
+  {
+    "ativo": "LWSA3",
+    "data": "22/07",
+    "ultimo": "4,52",
+    "valorMinimo": "4,35",
+    "valorMaximo": "4,58",
+    "volume": "35,24 M"
+  },
+  {
+    "ativo": "MULT3",
+    "data": "22/07",
+    "ultimo": "25,61",
+    "valorMinimo": "24,19",
+    "valorMaximo": "25,76",
+    "volume": "248,6 M"
+  },
+  {
+    "ativo": "LREN3",
+    "data": "22/07",
+    "ultimo": "13,55",
+    "valorMinimo": "13,12",
+    "valorMaximo": "13,65",
+    "volume": "175,23 M"
+  },
+  {
+    "ativo": "EZTC3",
+    "data": "22/07",
+    "ultimo": "14,75",
+    "valorMinimo": "14,24",
+    "valorMaximo": "14,80",
+    "volume": "14,35 M"
+  },
+  {
+    "ativo": "CYRE3",
+    "data": "22/07",
+    "ultimo": "20,68",
+    "valorMinimo": "20,01",
+    "valorMaximo": "20,75",
+    "volume": "150,39 M"
+  },
+  {
+    "ativo": "IRBR3",
+    "data": "22/07",
+    "ultimo": "30,93",
+    "valorMinimo": "30,00",
+    "valorMaximo": "31,16",
+    "volume": "32,01 M"
+  },
+  {
+    "ativo": "BRKM5",
+    "data": "22/07",
+    "ultimo": "18,78",
+    "valorMinimo": "18,24",
+    "valorMaximo": "18,98",
+    "volume": "28,65 M"
+  },
+  {
+    "ativo": "ALOS3",
+    "data": "22/07",
+    "ultimo": "22,23",
+    "valorMinimo": "21,60",
+    "valorMaximo": "22,35",
+    "volume": "78,83 M"
+  },
+  {
+    "ativo": "SBSP3",
+    "data": "22/07",
+    "ultimo": "87,00",
+    "valorMinimo": "84,70",
+    "valorMaximo": "88,66",
+    "volume": "1,8 B"
+  },
+  {
+    "ativo": "CMIG4",
+    "data": "22/07",
+    "ultimo": "10,81",
+    "valorMinimo": "10,50",
+    "valorMaximo": "10,87",
+    "volume": "95,17 M"
+  },
+  {
+    "ativo": "CPLE6",
+    "data": "22/07",
+    "ultimo": "10,31",
+    "valorMinimo": "10,08",
+    "valorMaximo": "10,36",
+    "volume": "127,7 M"
+  },
+  {
+    "ativo": "ENEV3",
+    "data": "22/07",
+    "ultimo": "12,85",
+    "valorMinimo": "12,50",
+    "valorMaximo": "12,95",
+    "volume": "64,95 M"
+  },
+  {
+    "ativo": "DXCO3",
+    "data": "22/07",
+    "ultimo": "7,24",
+    "valorMinimo": "7,06",
+    "valorMaximo": "7,25",
+    "volume": "14,11 M"
+  },
+  {
+    "ativo": "SOMA3",
+    "data": "22/07",
+    "ultimo": "6,40",
+    "valorMinimo": "6,25",
+    "valorMaximo": "6,44",
+    "volume": "35,34 M"
+  },
+  {
+    "ativo": "ARZZ3",
+    "data": "22/07",
+    "ultimo": "53,43",
+    "valorMinimo": "52,29",
+    "valorMaximo": "53,79",
+    "volume": "69,32 M"
+  },
+  {
+    "ativo": "HYPE3",
+    "data": "22/07",
+    "ultimo": "28,98",
+    "valorMinimo": "28,33",
+    "valorMaximo": "29,00",
+    "volume": "89,63 M"
+  },
+  {
+    "ativo": "EQTL3",
+    "data": "22/07",
+    "ultimo": "33,15",
+    "valorMinimo": "32,44",
+    "valorMaximo": "33,26",
+    "volume": "284,11 M"
+  },
+  {
+    "ativo": "ELET3",
+    "data": "22/07",
+    "ultimo": "37,84",
+    "valorMinimo": "37,01",
+    "valorMaximo": "38,05",
+    "volume": "259,76 M"
+  },
+  {
+    "ativo": "CCRO3",
+    "data": "22/07",
+    "ultimo": "12,63",
+    "valorMinimo": "12,40",
+    "valorMaximo": "12,67",
+    "volume": "47,87 M"
+  },
+  {
+    "ativo": "CMIN3",
+    "data": "22/07",
+    "ultimo": "5,21",
+    "valorMinimo": "5,11",
+    "valorMaximo": "5,21",
+    "volume": "34,92 M"
+  },
+  {
+    "ativo": "VIVA3",
+    "data": "22/07",
+    "ultimo": "22,93",
+    "valorMinimo": "22,56",
+    "valorMaximo": "23,26",
+    "volume": "43,87 M"
+  },
+  {
+    "ativo": "TOTS3",
+    "data": "22/07",
+    "ultimo": "28,51",
+    "valorMinimo": "27,98",
+    "valorMaximo": "28,73",
+    "volume": "37,21 M"
+  },
+  {
+    "ativo": "ELET6",
+    "data": "22/07",
+    "ultimo": "42,09",
+    "valorMinimo": "41,32",
+    "valorMaximo": "42,30",
+    "volume": "39,59 M"
+  },
+  {
+    "ativo": "ASAI3",
+    "data": "22/07",
+    "ultimo": "10,70",
+    "valorMinimo": "10,55",
+    "valorMaximo": "10,78",
+    "volume": "68,44 M"
+  },
+  {
+    "ativo": "YDUQ3",
+    "data": "22/07",
+    "ultimo": "11,45",
+    "valorMinimo": "11,35",
+    "valorMaximo": "11,53",
+    "volume": "15,47 M"
+  },
+  {
+    "ativo": "RAIZ4",
+    "data": "22/07",
+    "ultimo": "3,10",
+    "valorMinimo": "3,05",
+    "valorMaximo": "3,13",
+    "volume": "51,95 M"
+  },
+  {
+    "ativo": "RADL3",
+    "data": "22/07",
+    "ultimo": "26,10",
+    "valorMinimo": "25,67",
+    "valorMaximo": "26,20",
+    "volume": "78,07 M"
+  },
+  {
+    "ativo": "COGN3",
+    "data": "22/07",
+    "ultimo": "1,69",
+    "valorMinimo": "1,67",
+    "valorMaximo": "1,71",
+    "volume": "30,37 M"
+  },
+  {
+    "ativo": "BBDC4",
+    "data": "22/07",
+    "ultimo": "12,63",
+    "valorMinimo": "12,51",
+    "valorMaximo": "12,67",
+    "volume": "262,08 M"
+  },
+  {
+    "ativo": "CPFE3",
+    "data": "22/07",
+    "ultimo": "33,25",
+    "valorMinimo": "32,74",
+    "valorMaximo": "33,25",
+    "volume": "35,16 M"
+  },
+  {
+    "ativo": "VIVT3",
+    "data": "22/07",
+    "ultimo": "49,57",
+    "valorMinimo": "48,94",
+    "valorMaximo": "49,71",
+    "volume": "59,59 M"
+  },
+  {
+    "ativo": "B3SA3",
+    "data": "22/07",
+    "ultimo": "11,29",
+    "valorMinimo": "11,13",
+    "valorMaximo": "11,44",
+    "volume": "201,06 M"
+  },
+  {
+    "ativo": "MRVE3",
+    "data": "22/07",
+    "ultimo": "6,81",
+    "valorMinimo": "6,77",
+    "valorMaximo": "6,87",
+    "volume": "38,17 M"
+  },
+  {
+    "ativo": "BBSE3",
+    "data": "22/07",
+    "ultimo": "34,45",
+    "valorMinimo": "34,01",
+    "valorMaximo": "34,57",
+    "volume": "106,09 M"
+  },
+  {
+    "ativo": "TIMS3",
+    "data": "22/07",
+    "ultimo": "16,92",
+    "valorMinimo": "16,65",
+    "valorMaximo": "16,97",
+    "volume": "68,14 M"
+  },
+  {
+    "ativo": "VBBR3",
+    "data": "22/07",
+    "ultimo": "23,28",
+    "valorMinimo": "22,94",
+    "valorMaximo": "23,45",
+    "volume": "66,19 M"
+  },
+  {
+    "ativo": "HAPV3",
+    "data": "22/07",
+    "ultimo": "3,92",
+    "valorMinimo": "3,87",
+    "valorMaximo": "3,95",
+    "volume": "138,74 M"
+  },
+  {
+    "ativo": "BBDC3",
+    "data": "22/07",
+    "ultimo": "11,54",
+    "valorMinimo": "11,43",
+    "valorMaximo": "11,55",
+    "volume": "45,23 M"
+  },
+  {
+    "ativo": "ABEV3",
+    "data": "22/07",
+    "ultimo": "11,81",
+    "valorMinimo": "11,65",
+    "valorMaximo": "11,86",
+    "volume": "280,43 M"
+  },
+  {
+    "ativo": "EGIE3",
+    "data": "22/07",
+    "ultimo": "45,90",
+    "valorMinimo": "45,20",
+    "valorMaximo": "46,00",
+    "volume": "51,27 M"
+  },
+  {
+    "ativo": "GOAU4",
+    "data": "22/07",
+    "ultimo": "11,13",
+    "valorMinimo": "11,03",
+    "valorMaximo": "11,14",
+    "volume": "29,93 M"
+  },
+  {
+    "ativo": "MRFG3",
+    "data": "22/07",
+    "ultimo": "11,27",
+    "valorMinimo": "11,18",
+    "valorMaximo": "11,42",
+    "volume": "38,94 M"
+  },
+  {
+    "ativo": "GGBR4",
+    "data": "22/07",
+    "ultimo": "18,89",
+    "valorMinimo": "18,77",
+    "valorMaximo": "18,96",
+    "volume": "111,4 M"
+  },
+  {
+    "ativo": "BRFS3",
+    "data": "22/07",
+    "ultimo": "21,10",
+    "valorMinimo": "21,03",
+    "valorMaximo": "21,62",
+    "volume": "104,26 M"
+  },
+  {
+    "ativo": "RAIL3",
+    "data": "22/07",
+    "ultimo": "22,67",
+    "valorMinimo": "22,47",
+    "valorMaximo": "22,95",
+    "volume": "204,13 M"
+  },
+  {
+    "ativo": "TRPL4",
+    "data": "22/07",
+    "ultimo": "24,66",
+    "valorMinimo": "24,42",
+    "valorMaximo": "24,79",
+    "volume": "255,76 M"
+  },
+  {
+    "ativo": "JBSS3",
+    "data": "22/07",
+    "ultimo": "31,35",
+    "valorMinimo": "30,82",
+    "valorMaximo": "31,48",
+    "volume": "114,22 M"
+  },
+  {
+    "ativo": "USIM5",
+    "data": "22/07",
+    "ultimo": "8,56",
+    "valorMinimo": "8,40",
+    "valorMaximo": "8,61",
+    "volume": "47,11 M"
+  },
+  {
+    "ativo": "VAMO3",
+    "data": "22/07",
+    "ultimo": "9,01",
+    "valorMinimo": "8,74",
+    "valorMaximo": "9,10",
+    "volume": "47,18 M"
+  },
+  {
+    "ativo": "CSNA3",
+    "data": "22/07",
+    "ultimo": "12,68",
+    "valorMinimo": "12,65",
+    "valorMaximo": "12,81",
+    "volume": "38,68 M"
+  },
+  {
+    "ativo": "ITSA4",
+    "data": "22/07",
+    "ultimo": "10,39",
+    "valorMinimo": "10,32",
+    "valorMaximo": "10,42",
+    "volume": "172,01 M"
+  },
+  {
+    "ativo": "ALPA4",
+    "data": "22/07",
+    "ultimo": "8,89",
+    "valorMinimo": "8,79",
+    "valorMaximo": "8,99",
+    "volume": "19,3 M"
+  },
+  {
+    "ativo": "RRRP3",
+    "data": "22/07",
+    "ultimo": "27,20",
+    "valorMinimo": "26,85",
+    "valorMaximo": "27,41",
+    "volume": "73,17 M"
+  },
+  {
+    "ativo": "RDOR3",
+    "data": "22/07",
+    "ultimo": "28,16",
+    "valorMinimo": "27,93",
+    "valorMaximo": "28,54",
+    "volume": "58,75 M"
+  },
+  {
+    "ativo": "CSAN3",
+    "data": "22/07",
+    "ultimo": "14,05",
+    "valorMinimo": "13,92",
+    "valorMaximo": "14,10",
+    "volume": "59,43 M"
+  },
+  {
+    "ativo": "BBAS3",
+    "data": "22/07",
+    "ultimo": "27,14",
+    "valorMinimo": "27,02",
+    "valorMaximo": "27,31",
+    "volume": "313,93 M"
+  },
+  {
+    "ativo": "FLRY3",
+    "data": "22/07",
+    "ultimo": "15,62",
+    "valorMinimo": "15,47",
+    "valorMaximo": "15,70",
+    "volume": "30,79 M"
+  },
+  {
+    "ativo": "CIEL3",
+    "data": "22/07",
+    "ultimo": "5,75",
+    "valorMinimo": "5,74",
+    "valorMaximo": "5,76",
+    "volume": "129,99 M"
+  },
+  {
+    "ativo": "CVCB3",
+    "data": "22/07",
+    "ultimo": "1,87",
+    "valorMinimo": "1,87",
+    "valorMaximo": "1,93",
+    "volume": "14,47 M"
+  },
+  {
+    "ativo": "ITUB4",
+    "data": "22/07",
+    "ultimo": "34,24",
+    "valorMinimo": "34,17",
+    "valorMaximo": "34,45",
+    "volume": "423,23 M"
+  },
+  {
+    "ativo": "VALE3",
+    "data": "22/07",
+    "ultimo": "61,05",
+    "valorMinimo": "60,73",
+    "valorMaximo": "61,27",
+    "volume": "795,5 M"
+  },
+  {
+    "ativo": "BRAP4",
+    "data": "22/07",
+    "ultimo": "18,90",
+    "valorMinimo": "18,80",
+    "valorMaximo": "18,96",
+    "volume": "30,58 M"
+  },
+  {
+    "ativo": "AZUL4",
+    "data": "22/07",
+    "ultimo": "8,36",
+    "valorMinimo": "8,36",
+    "valorMaximo": "8,66",
+    "volume": "89,38 M"
+  },
+  {
+    "ativo": "RECV3",
+    "data": "22/07",
+    "ultimo": "20,95",
+    "valorMinimo": "20,55",
+    "valorMaximo": "21,13",
+    "volume": "44,45 M"
+  },
+  {
+    "ativo": "WEGE3",
+    "data": "22/07",
+    "ultimo": "47,17",
+    "valorMinimo": "46,95",
+    "valorMaximo": "47,46",
+    "volume": "174,29 M"
+  },
+  {
+    "ativo": "NTCO3",
+    "data": "22/07",
+    "ultimo": "15,03",
+    "valorMinimo": "14,99",
+    "valorMaximo": "15,16",
+    "volume": "55,71 M"
+  },
+  {
+    "ativo": "SUZB3",
+    "data": "22/07",
+    "ultimo": "53,28",
+    "valorMinimo": "52,72",
+    "valorMaximo": "53,94",
+    "volume": "387,99 M"
+  },
+  {
+    "ativo": "UGPA3",
+    "data": "22/07",
+    "ultimo": "23,08",
+    "valorMinimo": "22,88",
+    "valorMaximo": "23,44",
+    "volume": "91,26 M"
+  },
+  {
+    "ativo": "BEEF3",
+    "data": "22/07",
+    "ultimo": "6,51",
+    "valorMinimo": "6,50",
+    "valorMaximo": "6,59",
+    "volume": "21,31 M"
+  },
+  {
+    "ativo": "PETZ3",
+    "data": "22/07",
+    "ultimo": "3,89",
+    "valorMinimo": "3,83",
+    "valorMaximo": "3,97",
+    "volume": "22,14 M"
+  },
+  {
+    "ativo": "RENT3",
+    "data": "22/07",
+    "ultimo": "42,95",
+    "valorMinimo": "42,90",
+    "valorMaximo": "43,80",
+    "volume": "318,49 M"
+  },
+  {
+    "ativo": "SMTO3",
+    "data": "22/07",
+    "ultimo": "31,41",
+    "valorMinimo": "31,36",
+    "valorMaximo": "31,87",
+    "volume": "27,92 M"
+  },
+  {
+    "ativo": "PRIO3",
+    "data": "22/07",
+    "ultimo": "44,69",
+    "valorMinimo": "44,68",
+    "valorMaximo": "45,37",
+    "volume": "151,48 M"
+  },
+  {
+    "ativo": "PETR3",
+    "data": "22/07",
+    "ultimo": "41,07",
+    "valorMinimo": "41,05",
+    "valorMaximo": "41,80",
+    "volume": "251,29 M"
+  },
+  {
+    "ativo": "SLCE3",
+    "data": "22/07",
+    "ultimo": "19,00",
+    "valorMinimo": "18,93",
+    "valorMaximo": "19,33",
+    "volume": "37,42 M"
+  },
+  {
+    "ativo": "MGLU3",
+    "data": "22/07",
+    "ultimo": "12,33",
+    "valorMinimo": "12,33",
+    "valorMaximo": "12,83",
+    "volume": "258,84 M"
+  },
+  {
+    "ativo": "PETR4",
+    "data": "22/07",
+    "ultimo": "37,92",
+    "valorMinimo": "37,88",
+    "valorMaximo": "38,59",
+    "volume": "978,88 M"
+  },
+  {
+    "ativo": "PCAR3",
+    "data": "22/07",
+    "ultimo": "2,81",
+    "valorMinimo": "2,81",
+    "valorMaximo": "2,95",
+    "volume": "34,49 M"
+  },
+  {
+    "ativo": "EMBR3",
+    "data": "22/07",
+    "ultimo": "38,60",
+    "valorMinimo": "38,25",
+    "valorMaximo": "41,89",
+    "volume": "481,69 M"
+  }
+]
